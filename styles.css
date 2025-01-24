@@ -1,0 +1,16 @@
+/* CSS Stles */
+
+body {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color:rgb(245, 143, 109);
+}
+
+li {
+    color: white;
+    background-color: rgba(245, 109, 179, 0.5);
+    font-weight: bold;
+}
